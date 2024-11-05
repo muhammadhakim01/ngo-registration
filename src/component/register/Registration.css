@@ -1,0 +1,28 @@
+body{
+    background: #E3F0EB;
+    
+}
+.col-md-5.bg-white.vswa-detail {
+    height: 470px;
+}
+.col-md-5.bg-white {
+    border-top: 10px solid green;
+}
+@media only screen and (max-width: 768px) {
+    .col-md-5.bg-white.vswa-detail{
+        height: auto;
+    }
+    .col-md-5.bg-white.vswa-detail {
+        height: 650px;
+    }
+    button.col-5.btn.btn-success {
+        margin: auto;
+        margin-bottom: 30px;
+    }
+
+}
+@media only screen and (max-width: 436px) {
+    button.col-5.btn.btn-success {
+        font-size: 12px;
+    }
+}

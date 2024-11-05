@@ -1,0 +1,22 @@
+
+img.card-img-top.rounded-circle.d-inline.heaederlogo {
+    width: 80px;
+    height: 80px;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: var(--bs-nav-pills-link-active-color);
+    /* background-color: var(--bs-nav-pills-link-active-bg); */
+    background: green;
+}
+
+@media (min-width: 576px) {
+    .navbar-expand-sm .navbar-collapse {
+        display: flex !important;
+        flex-basis: auto;
+        display: flex;
+        justify-content: end;
+    }
+    a#registration{
+        background-color: none !important;
+    }
+}
