@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ngo-registration/static/css/main.aaa2d48b.css",
+    "main.js": "/ngo-registration/static/js/main.8cb96143.js",
+    "static/js/453.18f25320.chunk.js": "/ngo-registration/static/js/453.18f25320.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/ngo-registration/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/ngo-registration/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/Frame.png": "/ngo-registration/static/media/Frame.3f495637b5e49db7c752.png",
+    "static/media/logo (2) 1.png": "/ngo-registration/static/media/logo (2) 1.c3fd5ca775ca09267fcb.png",
+    "static/media/logo.1.png": "/ngo-registration/static/media/logo.1.c3fd5ca775ca09267fcb.png",
+    "index.html": "/ngo-registration/index.html",
+    "main.aaa2d48b.css.map": "/ngo-registration/static/css/main.aaa2d48b.css.map",
+    "main.8cb96143.js.map": "/ngo-registration/static/js/main.8cb96143.js.map",
+    "453.18f25320.chunk.js.map": "/ngo-registration/static/js/453.18f25320.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaa2d48b.css",
+    "static/js/main.8cb96143.js"
+  ]
+}
